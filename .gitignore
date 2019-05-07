@@ -3,3 +3,14 @@
 ################################################################################
 
 /.vs
+/LocalDbTest/.vs/LocalDbTest
+/LocalDbTest/LocalDbTest/LocalDbTest/bin/Debug/netstandard2.0
+/LocalDbTest/LocalDbTest/LocalDbTest/obj
+/LocalDbTest/LocalDbTest/LocalDbTest.Android/bin/Debug
+/LocalDbTest/LocalDbTest/LocalDbTest.Android/obj/.cache/com.companyname.LocalDbTest.flag
+/LocalDbTest/LocalDbTest/LocalDbTest.Android/obj
+/LocalDbTest/LocalDbTest/LocalDbTest.iOS/obj
+/LocalDbTest/LocalDbTest/LocalDbTest.UWP/bin/x86/Debug
+/LocalDbTest/LocalDbTest/LocalDbTest.UWP/obj
+/LocalDbTest/LocalSqlDbLibrary/bin/Debug/netstandard2.0
+/LocalDbTest/LocalSqlDbLibrary/obj
